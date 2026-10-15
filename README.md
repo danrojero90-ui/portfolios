@@ -41,3 +41,4 @@ WordPress & Shopify Developer
 - 🌐 Portfolio: https://dan-portfolio.infinityfree.me/
 - 💼 LinkedIn: https://www.linkedin.com/in/danrojero/
 - 🐙 GitHub: https://github.com/danrojero90-ui
+- 
